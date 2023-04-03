@@ -1,0 +1,1 @@
+g++ -Wall heapProfiling.cpp -ltcmalloc -ljemalloc -o heapperf

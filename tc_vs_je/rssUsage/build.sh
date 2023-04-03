@@ -1,0 +1,1 @@
+g++ -Wall rss_test.cpp -ltcmalloc -ljemalloc -o rssTest
