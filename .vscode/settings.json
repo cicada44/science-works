@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "tcmalloc.h": "c",
-        "cstring": "cpp"
-    }
-}
